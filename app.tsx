@@ -1,6 +1,6 @@
 ﻿import React from "react";
 import ReactDOM from "react-dom";
-import ToolBar from "./toolBar";
+import ToolBar from "./toolbar";
 import CPU from "./cpu";
 import Memory from "./memory";
 import BrookshearMachine from "./brookshearMachine";
